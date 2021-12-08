@@ -21,7 +21,7 @@ function HeroSection() {
           className='btns'
           buttonStyle='btn--primary'
           buttonSize='btn--large'
-          onClick={console.log('hey')}
+          onClick={() => window.location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'}
         >
           WATCH TRAILER <i className='far fa-play-circle' />
         </Button>
