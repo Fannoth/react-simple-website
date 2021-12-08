@@ -1,9 +1,10 @@
 # [Live server](https://react-simple-website-fannoth.netlify.app/)
 
 ## Table of contest
+* [Live Server](#live-server)
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Live Server](#live-server)
+* [Getting Started](*getting-started-with-create-react-app)
 
 ## General info
 - Simple Website
@@ -16,7 +17,7 @@ Project is created with:
 - css
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
