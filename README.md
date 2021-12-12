@@ -5,6 +5,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Getting Started](*getting-started-with-create-react-app)
+* [ToDo](*todo)
 
 ## General info
 - Simple Website
@@ -16,6 +17,11 @@ Project is created with:
 - react-router-dom
 - css
 
+## ToDo
+- Connect with Firebase
+- Create products and services
+- Make modals for products and services
+- Sign In
 
 ## Getting Started with Create React App
 
